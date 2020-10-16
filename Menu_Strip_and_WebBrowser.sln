@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu_Strip_and_WebBrowser", "Menu_Strip\Menu_Strip_and_WebBrowser.csproj", "{AFF1431E-6BE1-4687-8683-625E2B33E4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF1431E-6BE1-4687-8683-625E2B33E4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF1431E-6BE1-4687-8683-625E2B33E4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF1431E-6BE1-4687-8683-625E2B33E4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF1431E-6BE1-4687-8683-625E2B33E4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25F303F-15F4-42E1-A560-AFD5077C38A8}
+	EndGlobalSection
+EndGlobal
